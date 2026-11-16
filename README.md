@@ -3,7 +3,7 @@
 Dashboard pemantauan kualitas udara (ISPU) DKI Jakarta berbasis web, dibuat untuk tugas Visualisasi Data, Departemen Informatika, Universitas Diponegoro.
 
 **Dashboard:** https://nadianurhaniya.github.io/AirWatch-Jakarta/
-**Dataset bersih (Zenodo):** [https://zenodo.org/records/24249035]
+**Dataset bersih (Zenodo):** https://zenodo.org/records/24249035
 
 ## Tujuan
 Dashboard dirancang secara *goal-driven* untuk membantu pemerintah daerah (pengelola pemantauan kualitas udara) menjawab tiga Critical Business Questions (CBQ):
@@ -37,13 +37,10 @@ Atau buka langsung melalui tautan dashboard di atas.
 ## Teknologi
 HTML, CSS, dan JavaScript. [isi pustaka grafik yang dipakai, mis. Plotly.js]
 
-## Tim (Kelompok 9)
-- Khanza Qaila
-- Nadia Azura Nurhaniya
-- Olivia Oktaviani
-- Adelia Clearesta
+## Anggota Kelompok 9 - Visualisasi Data Kelas A
+- Khanza Qaila (24060124120011)
+- Nadia Azura Nurhaniya (24060124120019)
+- Olivia Oktaviani (24060124120050)
+- Adelia Clearesta (24060124140204)
 
 **Dosen pengampu:** Dinar Mutiara Kusumo Nugraheni, S.T., M.InfoTech.(Comp)., Ph.D.
-
-## Sitasi Data
-[isi sitasi Zenodo setelah dataset dipublikasikan]
